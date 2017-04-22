@@ -1,0 +1,9 @@
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\04.CSSandXPath.exe.config
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\04.CSSandXPath.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\04.CSSandXPath.pdb
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\WebDriver.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\WebDriver.Support.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\WebDriver.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\bin\Debug\WebDriver.Support.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\obj\Debug\04.CSSandXPath.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\04.CSSandXPath\obj\Debug\04.CSSandXPath.pdb

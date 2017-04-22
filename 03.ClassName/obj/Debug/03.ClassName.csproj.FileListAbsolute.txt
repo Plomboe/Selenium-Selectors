@@ -1,0 +1,10 @@
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\03.ClassName.exe.config
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\03.ClassName.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\03.ClassName.pdb
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\WebDriver.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\WebDriver.Support.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\WebDriver.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\bin\Debug\WebDriver.Support.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\obj\Debug\03.ClassName.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\obj\Debug\03.ClassName.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SeleniumSelectors\03.ClassName\obj\Debug\03.ClassName.pdb
